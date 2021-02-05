@@ -1,0 +1,5 @@
+spring.couchbase:
+    connectionString: localhost
+    bucketName: quiz-app-local
+    username: admin
+    password: admin123
